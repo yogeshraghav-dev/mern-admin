@@ -8,10 +8,6 @@ GitHub Repository : [https://github.com/yogeshraghav-dev/mern-admin)
 
 ## Starter Antd Admin (Crud & auth) Mern App (Express.js / React / Redux / MongoDB)
 
-Starter Crm App based on mern stack (Express.js / MongoDb / React / Redux / AntD) with generic crud and auth , admin management .
-
-**Live App Demo** : [https://www.idurarapp.com](https://www.idurarapp.com)
-
 
 ## Setup backend
 
