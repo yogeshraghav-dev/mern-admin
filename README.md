@@ -1,31 +1,9 @@
 ## Built in Node By Yogesh Raghav (https://github.com/yogeshraghav-dev/)
-IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
-GitHub Repository : [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
+
+GitHub Repository : [https://github.com/yogeshraghav-dev/mern-admin)
 <br/>
 
-**⭐️ Demo Open Source Version** : [https://opensource.idurarapp.com](https://opensource.idurarapp.com)
-<br/>
-**🚀 Cloud Entreprise Version** : [https://cloud.idurarapp.com](https://cloud.idurarapp.com)
-<br/>
-#
-[![
-IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js )](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ja242ld9m9z1c6ia7lu5.png)](https://github.com/idurar/idurar-erp-crm)
 
-
-
-
-# Starter Mern Antd Admin App , MERN Admin dashboard ,Antd Admin Template free
-
-```
-Don't forget please to ⭐ this repo if you like this Starter Antd Admin!
-```
-
-## Our Sponsors
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=4ead8370b905&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
-
-![starter-antd-admin-crud-auth-mern-crud-auth](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opp4yj177dizyaosah0o.png)
 
 
 ## Starter Antd Admin (Crud & auth) Mern App (Express.js / React / Redux / MongoDB)
